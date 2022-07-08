@@ -26,7 +26,6 @@ namespace TestWikipidia.Pages
            
             return this;
         }
-
         public MainPage FindPhilosophyPage() 
         {
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);

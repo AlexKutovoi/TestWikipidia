@@ -13,5 +13,4 @@ namespace TestWikipidia.Tests
                 .FindPhilosophyPage();                 
         }
     }
-
 }
